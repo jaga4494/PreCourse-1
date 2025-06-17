@@ -1,4 +1,6 @@
-import java.io.*; 
+// n - Max number of elements to be put into the list
+// Time Complexity : insert and print O(n)
+// Space Complexity : O(n) - one node for each element.
   
 // Java program to implement 
 // a Singly Linked List 
